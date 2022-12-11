@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/la-maison-jungle/static/css/main.073c9b0a.css",
-    "main.js": "/la-maison-jungle/static/js/main.fe090732.js",
-    "static/js/787.82b65551.chunk.js": "/la-maison-jungle/static/js/787.82b65551.chunk.js",
-    "static/media/logo.svg": "/la-maison-jungle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/la-maison-jungle/static/css/main.49af5502.css",
+    "main.js": "/la-maison-jungle/static/js/main.77e1c9a0.js",
+    "static/media/olivier.jpg": "/la-maison-jungle/static/media/olivier.b2908b40d9fb7f86626b.jpg",
+    "static/media/basilique.jpg": "/la-maison-jungle/static/media/basilique.be00474e950eb5af0054.jpg",
+    "static/media/cactus.jpg": "/la-maison-jungle/static/media/cactus.a71c2062a926cb3d5db8.jpg",
+    "static/media/pothos-argente.jpg": "/la-maison-jungle/static/media/pothos-argente.d72dc0ac2f240d84c9d7.jpg",
+    "static/media/monstera.jpg": "/la-maison-jungle/static/media/monstera.ec0819da398bc9469040.jpg",
+    "static/media/ficus-lyrata.jpg": "/la-maison-jungle/static/media/ficus-lyrata.2e915120c952bdb7066c.jpg",
+    "static/media/menthe.jpg": "/la-maison-jungle/static/media/menthe.b83a3d2e0c1c1cda808a.jpg",
+    "static/media/calathea.jpg": "/la-maison-jungle/static/media/calathea.455c33e2bd3e5509c907.jpg",
+    "static/media/water.png": "/la-maison-jungle/static/media/water.4cc1e3c8f181cfb63c2d.png",
+    "static/media/succulente.jpg": "/la-maison-jungle/static/media/succulente.f4329849930298a9e46b.jpg",
+    "static/media/sun.png": "/la-maison-jungle/static/media/sun.1c7fad02caab59109f9e.png",
+    "static/media/button.png": "/la-maison-jungle/static/media/button.538249bc9f5e3852dc9e.png",
     "index.html": "/la-maison-jungle/index.html",
-    "main.073c9b0a.css.map": "/la-maison-jungle/static/css/main.073c9b0a.css.map",
-    "main.fe090732.js.map": "/la-maison-jungle/static/js/main.fe090732.js.map",
-    "787.82b65551.chunk.js.map": "/la-maison-jungle/static/js/787.82b65551.chunk.js.map"
+    "main.49af5502.css.map": "/la-maison-jungle/static/css/main.49af5502.css.map",
+    "main.77e1c9a0.js.map": "/la-maison-jungle/static/js/main.77e1c9a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.fe090732.js"
+    "static/css/main.49af5502.css",
+    "static/js/main.77e1c9a0.js"
   ]
 }
