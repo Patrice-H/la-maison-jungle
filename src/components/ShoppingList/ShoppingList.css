@@ -1,0 +1,13 @@
+.shopping-list {
+    width: 100%;
+}
+.plant-list {
+    padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+    margin: -20px auto 0;
+}
+.plant-item {
+    position: relative;
+}
