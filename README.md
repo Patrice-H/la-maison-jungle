@@ -1,4 +1,4 @@
-![logo](https://github.com/Patrice-H/la_maison_jungle/blob/main/src/assets/logo.png)
+![logo](https://github.com/Patrice-H/la-maison-jungle/blob/main/src/assets/logo.png)
 
 # La maison jungle
 
